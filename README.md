@@ -1,4 +1,4 @@
-# Hi, my name is Shea.
+# Hi, my name is Shea
 
 Currently Studying: Bachelor of Information Technology (Networking Cybersecurity)
 
