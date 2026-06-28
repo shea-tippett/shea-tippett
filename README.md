@@ -1,6 +1,7 @@
 # Hi, my name is Shea.
 
 Currently Studying: Bachelor of Information Technology (Networking Cybersecurity)
+
 Location: Adelaide University
 
 ## About Me
@@ -9,7 +10,7 @@ I'm a second year student at Adelaide University, studying Information Technolog
 
 I'm particularly interested in:
 
-- Eterprise Networking
+- Enterprise Networking
 - Cybersecurity, specifically defense (blue-team)
 - Server management (currently working on a home-server system)
 - Some penetration testing (mainly focused on defensive security)
